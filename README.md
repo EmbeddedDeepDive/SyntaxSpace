@@ -56,7 +56,7 @@ Here, you'll find a selection of our best projects that embody our love for tech
 We're always eager to connect with fellow tech enthusiasts. Whether you're looking for advice, collaboration, or just want to share your thoughts, feel free to reach out to us.
 
 [![Website](https://img.shields.io/badge/Website-syntaxspace-1abc9c?style=for-the-badge&logo=web)](https://www.syntaxspace.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/hassaanshah016)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/SyntaxSpace016)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCQiVcDpQaBsZ0WXm0lOa2gQ)
 
 🔔 Subscribe to our Newsletter for the latest tutorials and projects!
