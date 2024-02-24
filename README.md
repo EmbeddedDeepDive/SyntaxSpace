@@ -24,17 +24,7 @@ We're deeply passionate about a wide range of technologies, and we constantly ex
 
 ---
   
-## 🌟 Featured Projects
-
-Here, you'll find a selection of our best projects that embody our love for technology and our commitment to sharing knowledge. 
-<!--
-(Consider adding links to your repositories here.)
--->
-<br />
-
----
-
-## ⚙️ Expertise:
+## ⚙️ Embedded Expertise:
 
 #### Languages
 
@@ -145,8 +135,16 @@ Here, you'll find a selection of our best projects that embody our love for tech
 ![Confluence](https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
--->
-<br />
+--> <br />
+
+---
+
+## 🌟 Featured Projects
+
+Here, you'll find a selection of our best projects that embody our love for technology and our commitment to sharing knowledge. 
+<!--
+(Consider adding links to your repositories here.)
+--> <br />
 
 ---
 
@@ -158,8 +156,7 @@ We're always eager to connect with fellow tech enthusiasts. Whether you're looki
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/SyntaxSpace016)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCQiVcDpQaBsZ0WXm0lOa2gQ)
 
-🔔 Subscribe to our Newsletter for the latest tutorials and projects!
-<br />
+🔔 Subscribe to our Newsletter for the latest tutorials and projects! <br />
 
 ---
 
