@@ -2,59 +2,25 @@
 
 Hello there! We're thrilled to have you here. Our passion lies in unraveling the complexities of technology and making it accessible to everyone.
 
-## 🛠 Technologies & Stacks We Love
+## 🛠 Technical Expertise and Interests
 
 We're deeply passionate about a wide range of technologies, and we constantly explore new trends to provide the best tutorials and projects. Here's what we currently love working with:
 
-### Programming Languages
-- C/C++
-- C#
-- Python
-- MATLAB
-- JavaScript
-- Flutter
-- Verilog
-- VHDL
+| Category                    | Technologies/Platforms                                                                   |
+|-----------------------------|----------------------------------------------------------------------------------        |
+| **Programming Languages**   | C/C++, C#, Python, MATLAB, JavaScript, Flutter, Verilog, VHDL                            |
+| **Platforms & Microcontrollers** | Arduino, ESP8266, ESP32, STM32, TI, AVR, PIC                                        |
+| **FPGAs/SOCs**              | Xilinx FPGAs, Intel Altera FPGAs, Xilinx SOCs (Zynq)                                     |
+| **Single Board Computers (SBCs)** | Raspberry Pi, Beaglebone Black, Nvidia Jetson Nano                                 |
+| **IoT Platforms**           | Blynk, Ubidot, Thingsspeak                                                               |
+| **Real-Time Operating Systems (RTOS)** | FreeRTOS, RT-Thread                                                           |
+| **Network Stacks**          | TCP/IP, Ethernet, OpenSSL, WolfSSL, SharkSSL                                             |
+| **Wireless Platforms**      | WiFi, BlueTooth Classic & BLE, RF Transceivers, RFID/NFC, Zigbee                         |
+| **Machine Learning/Deep Learning** | TensorFlow, PyTorch, Keras, Scikit Learn, Matplotlib, Numpy                       |
+| **Image Processing/Computer Vision** | OpenCV, Yolo                                                                    |
+| **Web Platforms**           | HTML, CSS, JavaScript, NodeJs, PHP, Ruby On Rails, WordPress, React Js, Vue Js, Next Js  |
+| **Mobile Platforms**        | React Native, Flutter                                                            |
 
-### Platforms & Microcontrollers
-- Arduino, ESP8266, ESP32
-- STM32, TI, AVR, PIC
-
-### FPGAs/SOCs
-- Xilinx FPGAs, Intel Altera FPGAs
-- Xilinx SOCs (Zynq)
-
-### Single Board Computers (SBCs)
-- Raspberry Pi, Beaglebone Black, Nvidia Jetson Nano
-
-### IoT Platforms
-- Blynk, Ubidot, Thingsspeak
-
-### Real-Time Operating Systems (RTOS)
-- FreeRTOS, RT-Thread
-
-### Network Stacks
-- TCP/IP, Ethernet
-- OpenSSL, WolfSSL, SharkSSL
-
-### Wireless Platforms
-- WiFi, BlueTooth Classic & BLE
-- RF Transceivers, RFID/NFC, Zigbee
-
-### Machine Learning/Deep Learning
-- TensorFlow, PyTorch, Keras
-- Scikit Learn, Matplotlib, Numpy
-
-### Image Processing/Computer Vision
-- OpenCV, Yolo
-
-### Web Platforms
-- HTML, CSS, JavaScript
-- NodeJs, PHP, Ruby On Rails
-- WordPress, React Js, Vue Js, Next Js
-
-### Mobile Platforms
-- React Native, Flutter
   
 ## 🌟 Featured Projects
 
