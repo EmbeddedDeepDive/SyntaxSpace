@@ -14,7 +14,7 @@ We're deeply passionate about a wide range of technologies, and we constantly ex
 | **Single Board Computers (SBCs)** | Raspberry Pi, Beaglebone Black, Nvidia Jetson Nano                                 |
 | **IoT Platforms**           | Blynk, Ubidot, Thingsspeak                                                               |
 | **Real-Time Operating Systems (RTOS)** | FreeRTOS, RT-Thread                                                           |
-| **Network and CyberSecurity **          | LwIP, TCP/IP, Ethernet, OpenSSL, WolfSSL, SharkSSL                                             |
+| **Network and CyberSecurity**          | LwIP, TCP/IP, Ethernet, OpenSSL, WolfSSL, SharkSSL                                             |
 | **Wireless Platforms**      | WiFi, BlueTooth Classic & BLE, RF Transceivers, RFID/NFC, Zigbee                         |
 | **Machine Learning/Deep Learning** | TensorFlow, PyTorch, Keras, Scikit Learn, Matplotlib, Numpy                       |
 | **Image Processing/Computer Vision** | OpenCV, Yolo                                                                    |
