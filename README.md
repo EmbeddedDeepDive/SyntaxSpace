@@ -10,11 +10,11 @@ We're deeply passionate about a wide range of technologies, and we constantly ex
 |-----------------------------|----------------------------------------------------------------------------------        |
 | **Programming Languages**   | C/C++, C#, Python, MATLAB, JavaScript, Flutter, Verilog, VHDL                            |
 | **Platforms & Microcontrollers** | Arduino, ESP8266, ESP32, STM32, TI, AVR, PIC                                        |
-| **FPGAs/SOCs**              | Xilinx FPGAs, Intel Altera FPGAs, Xilinx SOCs (Zynq)                                     |
+| **FPGAs/SOCs**              | Xilinx FPGAs, Xilinx SOCs (Zynq), Intel Altera FPGAs                                     |
 | **Single Board Computers (SBCs)** | Raspberry Pi, Beaglebone Black, Nvidia Jetson Nano                                 |
 | **IoT Platforms**           | Blynk, Ubidot, Thingsspeak                                                               |
 | **Real-Time Operating Systems (RTOS)** | FreeRTOS, RT-Thread                                                           |
-| **Network Stacks**          | TCP/IP, Ethernet, OpenSSL, WolfSSL, SharkSSL                                             |
+| **Network and CyberSecurity **          | LwIP, TCP/IP, Ethernet, OpenSSL, WolfSSL, SharkSSL                                             |
 | **Wireless Platforms**      | WiFi, BlueTooth Classic & BLE, RF Transceivers, RFID/NFC, Zigbee                         |
 | **Machine Learning/Deep Learning** | TensorFlow, PyTorch, Keras, Scikit Learn, Matplotlib, Numpy                       |
 | **Image Processing/Computer Vision** | OpenCV, Yolo                                                                    |
@@ -156,7 +156,7 @@ We're always eager to connect with fellow tech enthusiasts. Whether you're looki
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/SyntaxSpace016)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCQiVcDpQaBsZ0WXm0lOa2gQ)
 
-🔔 Subscribe to our Newsletter for the latest tutorials and projects! <br />
+🔔 Subscribe to our Newsletter for the latest videos and articles! <br />
 
 ---
 
