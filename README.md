@@ -1,25 +1,25 @@
 # Welcome to SyntaxSpace's GitHub! 🚀
 
-Hello there! We're thrilled to have you here. Our passion lies in unraveling the complexities of technology and making it accessible to everyone.
+Hello there! I'm thrilled to have you here. My passion lies in unraveling the complexities of technology and making it accessible to everyone.
 
 ## 🛠 Technical Expertise and Interests
 
-We're deeply passionate about a wide range of technologies, and we constantly explore new trends to provide the best tutorials and projects. Here's what we currently love working with:
+I'm deeply passionate about a wide range of technologies and constantly explore new technological trends, especially Embedded Systems. Here's what I currently love working with:
 
 | Category                    | Technologies/Platforms                                                                   |
 |-----------------------------|----------------------------------------------------------------------------------        |
-| **Programming Languages**   | C/C++, C#, Python, MATLAB, JavaScript, Flutter, Verilog, VHDL                            |
-| **Platforms & Microcontrollers** | Arduino, ESP8266, ESP32, STM32, TI, AVR, PIC                                        |
+| **Programming Languages**   | C/C++, C#, Python, MATLAB, Verilog, VHDL                                                 |
+| **Platforms & Microcontrollers** | STM32, ESP32, TI, Nordic, AVR, PIC, Arduino                                         |
 | **FPGAs/SOCs**              | Xilinx FPGAs, Xilinx SOCs (Zynq), Intel Altera FPGAs                                     |
 | **Single Board Computers (SBCs)** | Raspberry Pi, Beaglebone Black, Nvidia Jetson Nano                                 |
 | **IoT Platforms**           | Blynk, Ubidot, Thingsspeak                                                               |
 | **Real-Time Operating Systems (RTOS)** | FreeRTOS, RT-Thread                                                           |
-| **Network and CyberSecurity**          | LwIP, TCP/IP, Ethernet, OpenSSL, WolfSSL, SharkSSL                                             |
+| **Network and CyberSecurity**          | LwIP, TCP/IP, Ethernet, OpenSSL, WolfSSL, SharkSSL                            |
 | **Wireless Platforms**      | WiFi, BlueTooth Classic & BLE, RF Transceivers, RFID/NFC, Zigbee                         |
 | **Machine Learning/Deep Learning** | TensorFlow, PyTorch, Keras, Scikit Learn, Matplotlib, Numpy                       |
 | **Image Processing/Computer Vision** | OpenCV, Yolo                                                                    |
-| **Web Platforms**           | HTML, CSS, JavaScript, NodeJs, PHP, Ruby On Rails, WordPress, React Js, Vue Js, Next Js  |
-| **Mobile Platforms**        | React Native, Flutter                                                            |
+| **Web Platforms**           | HTML, CSS, JavaScript, NodeJs, React Js, Vue Js, Electron Js                             |
+| **Mobile Platforms**        | React Native, Flutter                                                                    |
 <br />
 
 ---
@@ -170,7 +170,6 @@ We're always eager to connect with fellow tech enthusiasts. Whether you're looki
 
 Thank you for visiting our GitHub profile. Have a fantastic day!
 <!-- Thank you for visiting our GitHub profile. We hope you find our projects inspiring and educational. -->
-
 
 
 [website]: https://syntaxspace.com
