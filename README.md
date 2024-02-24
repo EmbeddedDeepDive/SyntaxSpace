@@ -169,7 +169,7 @@ We're always eager to connect with fellow tech enthusiasts. Whether you're looki
 ---
 
 Thank you for visiting our GitHub profile. Have a fantastic day!
-<!-- Thank you for visiting our GitHub profile. We hope you find our projects inspiring and educational. -->
+<!-- Thank you for visiting my GitHub profile. We hope you find our projects inspiring and educational. -->
 
 
 [website]: https://syntaxspace.com
