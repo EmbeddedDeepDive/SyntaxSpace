@@ -138,15 +138,14 @@ We're deeply passionate about a wide range of technologies, and we constantly ex
 --> <br />
 
 ---
-
+<!--
 ## 🌟 Featured Projects
 
 Here, you'll find a selection of our best projects that embody our love for technology and our commitment to sharing knowledge. 
-<!--
-(Consider adding links to your repositories here.)
---> <br />
+<br />
 
 ---
+--> 
 
 ## 📬 Get in Touch
 
